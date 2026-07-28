@@ -1,0 +1,10 @@
+2026-07-15 15:12:59 | user=anonymous | action=LOGIN | target=student | result=FAILED | prev=GENESIS | f7ad2a29a3fdff1cf56505e5108725d9527da0bbd68a46b646e89ae1a0bbb741
+2026-07-15 15:14:05 | user=admin | action=LOGIN | target=- | result=SUCCESS | prev=f7ad2a29a3fdff1cf56505e5108725d9527da0bbd68a46b646e89ae1a0bbb741 | 7a49b8335599eaffc548a270e2697d7da05ac38358a4b1dd25f0fc6c88ed1fef
+2026-07-15 15:17:26 | user=admin | action=CREATE | target=mission.txt | result=SUCCESS | prev=7a49b8335599eaffc548a270e2697d7da05ac38358a4b1dd25f0fc6c88ed1fef | 72f56a48f216af6111a70493e4382c44e69888446cdf215f5bdcc894b175bf91
+2026-07-15 15:19:31 | user=admin | action=READ | target=mission.txt | result=SUCCESS | prev=72f56a48f216af6111a70493e4382c44e69888446cdf215f5bdcc894b175bf91 | 25d31470d2ddb5eb232ae29a1a9780dc0950958ee76f0e607fea83e97e9f8fce
+2026-07-15 16:30:01 | user=admin | action=LOGOUT | target=- | result=SUCCESS | prev=25d31470d2ddb5eb232ae29a1a9780dc0950958ee76f0e607fea83e97e9f8fce | 1a5dbc35371451ecebe16c7f81e27a1800f20d96233f5801b9bd8d54b80c4b7a
+2026-07-15 17:34:36 | user=admin | action=LOGIN | target=- | result=SUCCESS | prev=1a5dbc35371451ecebe16c7f81e27a1800f20d96233f5801b9bd8d54b80c4b7a | 3ceb7b2131e64797277bbb27e0339dbf856022f4d16a8e9af79a8b3472354e22
+2026-07-15 17:43:49 | user=admin | action=CREATE | target=secret.txt | result=SUCCESS | prev=3ceb7b2131e64797277bbb27e0339dbf856022f4d16a8e9af79a8b3472354e22 | 682f6228391b98dc36024a765e7c4306684a78f82f9300fb28841d0e97dee4e9
+2026-07-15 17:47:30 | user=admin | action=CHMOD | target=mission.txt | result=SUCCESS | prev=682f6228391b98dc36024a765e7c4306684a78f82f9300fb28841d0e97dee4e9 | a9315b58d7e39f1adcf761c6969bc7fe9cff0ec7f22e26e683baf25bfbbf3d1f
+2026-07-15 17:55:46 | user=admin | action=CREATE | target=telemetry.txt | result=SUCCESS | prev=a9315b58d7e39f1adcf761c6969bc7fe9cff0ec7f22e26e683baf25bfbbf3d1f | 76524ada63019bc95da73c4e7c87abc926414783647350e5518249f1d3fa0f73
+2026-07-15 18:47:25 | user=admin | action=LOGOUT | target=- | result=SUCCESS | prev=76524ada63019bc95da73c4e7c87abc926414783647350e5518249f1d3fa0f73 | db84f2f5f8d07da2f912821a20dd5c8332b6ee1caf681f84d7d30bdbd208fd6a
