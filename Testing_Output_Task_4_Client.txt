@@ -1,0 +1,69 @@
+
+Space Mission Control and Satellite Data System
+1. Task 1 - Process Management and Threading
+2. Task 2 - Memory Management Simulation
+3. Task 3 - Secure File Management System
+4. Task 4 - Network Programming and IPC
+0. Exit
+Select an option: 
+Task 4 - Satellite Client-Server Communication
+1. Start ground-control server
+2. Start satellite client
+3. Show protocol summary
+0. Return to main menu
+Select an option: Server IPv4 address (127.0.0.1 for same computer): Port: Server: 200|SPACE_MISSION_SERVER_READY
+Server: 201|AUTHENTICATED
+
+Satellite Client
+1. Send heartbeat
+2. Send telemetry
+3. Request mission status
+4. Request orbit command
+0. Disconnect
+Select an option: Server: 200|PONG
+
+Satellite Client
+1. Send heartbeat
+2. Send telemetry
+3. Request mission status
+4. Request orbit command
+0. Disconnect
+Select an option: Telemetry text (example temperature=24,battery=88): Server: 202|TELEMETRY_ACCEPTED|temperature=24,battery=88
+
+Satellite Client
+1. Send heartbeat
+2. Send telemetry
+3. Request mission status
+4. Request orbit command
+0. Disconnect
+Select an option: Server: 203|COMMAND_RESPONSE|STATUS_NOMINAL
+
+Satellite Client
+1. Send heartbeat
+2. Send telemetry
+3. Request mission status
+4. Request orbit command
+0. Disconnect
+Select an option: Server: 203|COMMAND_RESPONSE|MAINTAIN_CURRENT_ORBIT
+
+Satellite Client
+1. Send heartbeat
+2. Send telemetry
+3. Request mission status
+4. Request orbit command
+0. Disconnect
+Select an option: Server: 200|GOODBYE
+
+Task 4 - Satellite Client-Server Communication
+1. Start ground-control server
+2. Start satellite client
+3. Show protocol summary
+0. Return to main menu
+Select an option: 
+Space Mission Control and Satellite Data System
+1. Task 1 - Process Management and Threading
+2. Task 2 - Memory Management Simulation
+3. Task 3 - Secure File Management System
+4. Task 4 - Network Programming and IPC
+0. Exit
+Select an option: Mission Control application closed.

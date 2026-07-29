@@ -1,0 +1,45 @@
+
+Space Mission Control and Satellite Data System
+1. Task 1 - Process Management and Threading
+2. Task 2 - Memory Management Simulation
+3. Task 3 - Secure File Management System
+4. Task 4 - Network Programming and IPC
+0. Exit
+Select an option: First run: default administrator created.
+Username: admin   Password: admin123
+Create another user and protect this account for final demonstration.
+Username: Password: Login successful. Role: admin
+
+Task 3 - Secure Mission File Management (admin: admin)
+1. Create file
+2. Read file
+3. Write/overwrite file
+4. Delete file
+5. List files
+6. Change file permissions
+7. Create user (admin)
+8. View audit log (admin)
+0. Logout
+Select an option: 
+File                   Owner          Group        Permission Encrypted
+No mission files.
+
+Task 3 - Secure Mission File Management (admin: admin)
+1. Create file
+2. Read file
+3. Write/overwrite file
+4. Delete file
+5. List files
+6. Change file permissions
+7. Create user (admin)
+8. View audit log (admin)
+0. Logout
+Select an option: Logged out.
+
+Space Mission Control and Satellite Data System
+1. Task 1 - Process Management and Threading
+2. Task 2 - Memory Management Simulation
+3. Task 3 - Secure File Management System
+4. Task 4 - Network Programming and IPC
+0. Exit
+Select an option: Mission Control application closed.
